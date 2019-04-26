@@ -35,5 +35,5 @@ function preserveDecimal(a){
 }
 
 function preserveDecimal(a){
-  return parseFloat ('wuyyind')
+  return parseFloat ('a')
 }
